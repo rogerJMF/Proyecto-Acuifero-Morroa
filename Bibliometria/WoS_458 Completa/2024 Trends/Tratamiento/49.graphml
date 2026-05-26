@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">Hu ZM</data>
+  <data key="label">Hu ZM, 2022, IEEE ACCESS, V10, P70526, DOI 10.1109/ACCESS.2022.3187528</data>
+  <data key="author">Hu ZM</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">IEEE ACCESS</data>
+  <data key="vol">10</data>
+  <data key="page">70526</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="1">
+  <data key="name">Nguyen DC</data>
+  <data key="label">Nguyen DC, 2022, IEEE INTERNET THINGS, V9, P359, DOI 10.1109/JIOT.2021.3103320</data>
+  <data key="author">Nguyen DC</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">IEEE INTERNET THINGS</data>
+  <data key="vol">9</data>
+  <data key="page">359</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="2">
+  <data key="name">Mukta M</data>
+  <data key="label">Mukta M, 2019, 2019 IEEE 4TH INTERNATIONAL CONFERENCE ON COMPUTER AND COMMUNICATION SYSTEMS (ICCCS 2019), V0, PP669, DOI 10.1109/ccoms.2019.8821742, 10.1109/CCOMS.2019.8821742</data>
+  <data key="author">Mukta M</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">2019 IEEE 4TH INTERNATIONAL CONFERENCE ON COMPUTER AND COMMUNICATION SYSTEMS (ICCCS 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">669</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="3">
+  <data key="name">Jamroen C</data>
+  <data key="label">Jamroen C, 2020, IEEE ACCESS, V8, P172756, DOI 10.1109/ACCESS.2020.3025590</data>
+  <data key="author">Jamroen C</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">IEEE ACCESS</data>
+  <data key="vol">8</data>
+  <data key="page">172756</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="4">
+  <data key="name">Kumar M</data>
+  <data key="label">Kumar M, 2023, IEEE INTERNET THINGS, V10, P10280, DOI 10.1109/JIOT.2023.3238123</data>
+  <data key="author">Kumar M</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">IEEE INTERNET THINGS</data>
+  <data key="vol">10</data>
+  <data key="page">10280</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="5">
+  <data key="name">Fathoni Halim</data>
+  <data key="label">Fathoni Halim, 2020, 2020 INTERNATIONAL CONFERENCE ON PERVASIVE ARTIFICIAL INTELLIGENCE (ICPAI), V0, PP281, DOI 10.1109/ICPAI51961.2020.00060</data>
+  <data key="author">Fathoni Halim</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">2020 INTERNATIONAL CONFERENCE ON PERVASIVE ARTIFICIAL INTELLIGENCE (ICPAI)</data>
+  <data key="vol">0</data>
+  <data key="page">281</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="6">
+  <data key="name">Landaluce H</data>
+  <data key="label">Landaluce H, 2020, SENSORS-BASEL, V20, P0, DOI 10.3390/s20092495</data>
+  <data key="author">Landaluce H</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SENSORS-BASEL</data>
+  <data key="vol">20</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="7">
+  <data key="name">Abbasi M</data>
+  <data key="label">Abbasi M, 2021, COMPUT COMMUN, V169, P71, DOI 10.1016/j.comcom.2021.01.022</data>
+  <data key="author">Abbasi M</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT COMMUN</data>
+  <data key="vol">169</data>
+  <data key="page">71</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="8">
+  <data key="name">Abbasi M</data>
+  <data key="label">Abbasi M, 2019, P 2019 3 INT C INT T, V0, P1</data>
+  <data key="author">Abbasi M</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">P 2019 3 INT C INT T</data>
+  <data key="vol">0</data>
+  <data key="page">1</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="9">
+  <data key="name">Sujito</data>
+  <data key="label">Sujito, 2021, P 4 FOR RES SCI TECH, V0, PP197, DOI 10.2991/ahe.k.210205.035, 10.2991/AHE.K.210205.035</data>
+  <data key="author">Sujito</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">P 4 FOR RES SCI TECH</data>
+  <data key="vol">0</data>
+  <data key="page">197</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="10">
+  <data key="name">Singh DK</data>
+  <data key="label">Singh DK, 2022, SECUR COMMUN NETW, V2022, P0, DOI 10.1155/2022/7283975</data>
+  <data key="author">Singh DK</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SECUR COMMUN NETW</data>
+  <data key="vol">2022</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="11">
+  <data key="name">Sinha BB</data>
+  <data key="label">Sinha BB, 2022, FUTURE GENER COMP SY, V126, P169, DOI 10.1016/j.future.2021.08.006</data>
+  <data key="author">Sinha BB</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">FUTURE GENER COMP SY</data>
+  <data key="vol">126</data>
+  <data key="page">169</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="12">
+  <data key="name">Aba EN</data>
+  <data key="label">Aba EN, 2021, SOCIAL NETW. APPL. SCI., V3, P12</data>
+  <data key="author">Aba EN</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SOCIAL NETW. APPL. SCI.</data>
+  <data key="vol">3</data>
+  <data key="page">12</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="13">
+  <data key="name">Abba S</data>
+  <data key="label">Abba S, 2019, SENSORS-BASEL, V19, P0, DOI 10.3390/s19173643</data>
+  <data key="author">Abba S</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SENSORS-BASEL</data>
+  <data key="vol">19</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="14">
+  <data key="name">Arsene D</data>
+  <data key="label">Arsene D, 2022, WATER-SUI, V14, P0, DOI 10.3390/w14142187</data>
+  <data key="author">Arsene D</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">WATER-SUI</data>
+  <data key="vol">14</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="15">
+  <data key="name">Abdel-Aty AM</data>
+  <data key="label">Abdel-Aty AM, 2023, E3S WEB C, V437, P0, DOI 10.1051/e3sconf/202343703010, 10.1051/E3SCONF/202343703010</data>
+  <data key="author">Abdel-Aty AM</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">E3S WEB C</data>
+  <data key="vol">437</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="16">
+  <data key="name">Roy SK</data>
+  <data key="label">Roy SK, 2021, IEEE INTERNET THINGS, V8, P5023, DOI 10.1109/JIOT.2020.3036126</data>
+  <data key="author">Roy SK</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">IEEE INTERNET THINGS</data>
+  <data key="vol">8</data>
+  <data key="page">5023</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="17">
+  <data key="name">Zulkifli CZ</data>
+  <data key="label">Zulkifli CZ, 2022, WATER-SUI, V14, P0, DOI 10.3390/w14223621</data>
+  <data key="author">Zulkifli CZ</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">WATER-SUI</data>
+  <data key="vol">14</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="18">
+  <data key="name">Lall A K</data>
+  <data key="label">Lall A K, 2021, PROCEEDINGS-2021 INTERNATIONAL CONFERENCE ON FUTURE INTERNET OF THINGS AND CLOUD, V0, P0, DOI 10.1109/FICLOUD49777.2021.00030</data>
+  <data key="author">Lall A K</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS-2021 INTERNATIONAL CONFERENCE ON FUTURE INTERNET OF THINGS AND CLOUD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="19">
+  <data key="name">Ali AS</data>
+  <data key="label">Ali AS, 2022, INTERNET THINGS-NETH, V18, P0, DOI 10.1016/j.iot.2022.100504</data>
+  <data key="author">Ali AS</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">INTERNET THINGS-NETH</data>
+  <data key="vol">18</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="20">
+  <data key="name">Prapti DR</data>
+  <data key="label">Prapti DR, 2022, REV AQUACULT, V14, P979, DOI 10.1111/raq.12637</data>
+  <data key="author">Prapti DR</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">REV AQUACULT</data>
+  <data key="vol">14</data>
+  <data key="page">979</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="21">
+  <data key="name">Pasika S</data>
+  <data key="label">Pasika S, 2020, HELIYON, V6, P0, DOI 10.1016/j.heliyon.2020.e04096</data>
+  <data key="author">Pasika S</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">HELIYON</data>
+  <data key="vol">6</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="22">
+  <data key="name">Aazam M</data>
+  <data key="label">Aazam M, 2022, IEEE T SUST COMPUT, V7, P87, DOI 10.1109/TSUSC.2020.3028615</data>
+  <data key="author">Aazam M</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T SUST COMPUT</data>
+  <data key="vol">7</data>
+  <data key="page">87</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="23">
+  <data key="name">Vasudevan SK</data>
+  <data key="label">Vasudevan SK, 2021, ECOL INFORM, V65, P0, DOI 10.1016/j.ecoinf.2021.101421</data>
+  <data key="author">Vasudevan SK</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">ECOL INFORM</data>
+  <data key="vol">65</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="24">
+  <data key="name">Khan AI</data>
+  <data key="label">Khan AI, 2022, ENG APPL ARTIF INTEL, V114, P0, DOI 10.1016/j.engappai.2022.104996</data>
+  <data key="author">Khan AI</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">ENG APPL ARTIF INTEL</data>
+  <data key="vol">114</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="25">
+  <data key="name">Bogdan R</data>
+  <data key="label">Bogdan R, 2023, SENSORS-BASEL, V23, P0, DOI 10.3390/s23083919</data>
+  <data key="author">Bogdan R</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SENSORS-BASEL</data>
+  <data key="vol">23</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="26">
+  <data key="name">Herath Isuru Sachitha</data>
+  <data key="label">Herath Isuru Sachitha, 2019, 2019 INTERNATIONAL CONFERENCE ON ADVANCEMENTS IN COMPUTING (ICAC), V0, PP380, DOI 10.1109/ICAC49085.2019.9103379</data>
+  <data key="author">Herath Isuru Sachitha</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">2019 INTERNATIONAL CONFERENCE ON ADVANCEMENTS IN COMPUTING (ICAC)</data>
+  <data key="vol">0</data>
+  <data key="page">380</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="27">
+  <data key="name">Glória A</data>
+  <data key="label">Glória A, 2021, SENSORS-BASEL, V21, P0, DOI 10.3390/s21093079</data>
+  <data key="author">Glória A</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SENSORS-BASEL</data>
+  <data key="vol">21</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="28">
+  <data key="name">Jan FRNL</data>
+  <data key="label">Jan FRNL, 2022, WATER-SUI, V14, P0, DOI 10.3390/w14030309</data>
+  <data key="author">Jan FRNL</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">WATER-SUI</data>
+  <data key="vol">14</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="29">
+  <data key="name">Abbas S</data>
+  <data key="label">Abbas S, 2022, ACM TRANS CYBER-PHYS, V6, P0, DOI 10.1145/3491242</data>
+  <data key="author">Abbas S</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">ACM TRANS CYBER-PHYS</data>
+  <data key="vol">6</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="30">
+  <data key="name">Wong YJ</data>
+  <data key="label">Wong YJ, 2021, J CLEAN PROD, V324, P0, DOI 10.1016/j.jclepro.2021.129230</data>
+  <data key="author">Wong YJ</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">J CLEAN PROD</data>
+  <data key="vol">324</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="31">
+  <data key="name">Gao GD</data>
+  <data key="label">Gao GD, 2019, COMPUT ELECTRON AGR, V166, P0, DOI 10.1016/j.compag.2019.105013</data>
+  <data key="author">Gao GD</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT ELECTRON AGR</data>
+  <data key="vol">166</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="32">
+  <data key="name">El Bilali A</data>
+  <data key="label">El Bilali A, 2021, AGR WATER MANAGE, V245, P0, DOI 10.1016/j.agwat.2020.106625</data>
+  <data key="author">El Bilali A</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">AGR WATER MANAGE</data>
+  <data key="vol">245</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="33">
+  <data key="name">Dahane A</data>
+  <data key="label">Dahane A, 2022, WIRELESS PERS COMMUN, V127, P3173, DOI 10.1007/s11277-022-09915-4</data>
+  <data key="author">Dahane A</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">WIRELESS PERS COMMUN</data>
+  <data key="vol">127</data>
+  <data key="page">3173</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="34">
+  <data key="name">Jan F</data>
+  <data key="label">Jan F, 2021, WATER-SUI, V13, P0, DOI 10.3390/w13131729</data>
+  <data key="author">Jan F</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">WATER-SUI</data>
+  <data key="vol">13</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="35">
+  <data key="name">Chowdury MSU</data>
+  <data key="label">Chowdury MSU, 2019, PROCEDIA COMPUT SCI, V155, P161, DOI 10.1016/j.procs.2019.08.025</data>
+  <data key="author">Chowdury MSU</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">PROCEDIA COMPUT SCI</data>
+  <data key="vol">155</data>
+  <data key="page">161</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="36">
+  <data key="name">Munir MS</data>
+  <data key="label">Munir MS, 2021, COMPLEXITY, V2021, P0, DOI 10.1155/2021/6691571</data>
+  <data key="author">Munir MS</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">COMPLEXITY</data>
+  <data key="vol">2021</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="37">
+  <data key="name">Tyagi SKS</data>
+  <data key="label">Tyagi SKS, 2021, IEEE SENS J, V21, P17439, DOI 10.1109/JSEN.2020.3020889</data>
+  <data key="author">Tyagi SKS</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">IEEE SENS J</data>
+  <data key="vol">21</data>
+  <data key="page">17439</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="38">
+  <data key="name">Velayudhan NK</data>
+  <data key="label">Velayudhan NK, 2022, IEEE ACCESS, V10, P101042, DOI 10.1109/ACCESS.2022.3208142</data>
+  <data key="author">Velayudhan NK</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">IEEE ACCESS</data>
+  <data key="vol">10</data>
+  <data key="page">101042</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="39">
+  <data key="name">Boursianis AD</data>
+  <data key="label">Boursianis AD, 2021, IEEE SENS J, V21, P17539, DOI 10.1109/JSEN.2020.3033526</data>
+  <data key="author">Boursianis AD</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">IEEE SENS J</data>
+  <data key="vol">21</data>
+  <data key="page">17539</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="40">
+  <data key="name">Boursianis AD</data>
+  <data key="label">Boursianis AD, 2022, INTERNET THINGS-NETH, V18, P0, DOI 10.1016/j.iot.2020.100187</data>
+  <data key="author">Boursianis AD</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">INTERNET THINGS-NETH</data>
+  <data key="vol">18</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="41">
+  <data key="name">Naim A</data>
+  <data key="label">Naim A, 2021, ARRAY-NY, V10, P0, DOI 10.1016/j.array.2021.100056</data>
+  <data key="author">Naim A</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">ARRAY-NY</data>
+  <data key="vol">10</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="42">
+  <data key="name">Pandey R</data>
+  <data key="label">Pandey R, 2021, PROGR ELECTROMAGNE C, V109, P217, DOI 10.2528/PIERC20121102</data>
+  <data key="author">Pandey R</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">PROGR ELECTROMAGNE C</data>
+  <data key="vol">109</data>
+  <data key="page">217</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="43">
+  <data key="name">A Preethi</data>
+  <data key="label">A Preethi, 2022, 2022 3RD INTERNATIONAL CONFERENCE ON ELECTRONICS AND SUSTAINABLE COMMUNICATION SYSTEMS (ICESC), V0, PP434, DOI 10.1109/ICESC54411.2022.9885700</data>
+  <data key="author">A Preethi</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">2022 3RD INTERNATIONAL CONFERENCE ON ELECTRONICS AND SUSTAINABLE COMMUNICATION SYSTEMS (ICESC)</data>
+  <data key="vol">0</data>
+  <data key="page">434</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="44">
+  <data key="name">Tace Y</data>
+  <data key="label">Tace Y, 2022, ENERGY REP, V8, P1025, DOI 10.1016/j.egyr.2022.07.088</data>
+  <data key="author">Tace Y</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">ENERGY REP</data>
+  <data key="vol">8</data>
+  <data key="page">1025</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="45">
+  <data key="name">Lin JY</data>
+  <data key="label">Lin JY, 2021, SENSORS-BASEL, V21, P0, DOI 10.3390/s21248179</data>
+  <data key="author">Lin JY</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SENSORS-BASEL</data>
+  <data key="vol">21</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="46">
+  <data key="name">Fuentes H</data>
+  <data key="label">Fuentes H, 2020, ENVIRON MONIT ASSESS, V192, P0, DOI 10.1007/s10661-020-08535-4</data>
+  <data key="author">Fuentes H</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON MONIT ASSESS</data>
+  <data key="vol">192</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="47">
+  <data key="name">Mohamed ES</data>
+  <data key="label">Mohamed ES, 2021, EGYPT J REMOTE SENS, V24, P971, DOI 10.1016/j.ejrs.2021.08.007</data>
+  <data key="author">Mohamed ES</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">EGYPT J REMOTE SENS</data>
+  <data key="vol">24</data>
+  <data key="page">971</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="48">
+  <data key="name">Chiu MC</data>
+  <data key="label">Chiu MC, 2022, J AGR FOOD RES, V9, P0, DOI 10.1016/j.jafr.2022.100357</data>
+  <data key="author">Chiu MC</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">J AGR FOOD RES</data>
+  <data key="vol">9</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<edge source="0" target="3">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="0" target="10">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="0" target="13">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="0" target="16">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="0" target="27">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="0" target="32">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="0" target="33">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="0" target="36">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="0" target="44">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="2" target="5">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="2" target="20">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="2" target="21">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="2" target="23">
+  <data key="weight">5.000000237487257E-4</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="2" target="25">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="2" target="35">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="3" target="16">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="3" target="24">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="3" target="27">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="3" target="33">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="3" target="39">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="4" target="14">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="4" target="19">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="4" target="26">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="4" target="28">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="4" target="29">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="4" target="30">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="4" target="34">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="4" target="45">
+  <data key="weight">5.000000237487257E-4</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="4" target="46">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="5" target="6">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="5" target="20">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="5" target="25">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="5" target="35">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="6" target="20">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="7" target="38">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="8" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="9" target="23">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="9" target="31">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="9" target="45">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="9" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="10" target="13">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="10" target="27">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="10" target="32">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="10" target="36">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="10" target="37">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="10" target="40">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="11" target="24">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="11" target="40">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="11" target="47">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="13" target="27">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="13" target="32">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="13" target="36">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="13" target="44">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="18">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="19">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="26">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="28">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="29">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="30">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="34">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="41">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="46">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="15" target="17">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="16" target="24">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="16" target="27">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="16" target="33">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="16" target="39">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="17" target="45">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="18" target="19">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="18" target="26">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="18" target="28">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="18" target="41">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="18" target="46">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="19" target="26">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="19" target="28">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="19" target="29">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="19" target="30">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="19" target="34">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="19" target="41">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="19" target="46">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="20" target="25">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="20" target="35">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="21" target="23">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="21" target="29">
+  <data key="weight">4.472136206459254E-4</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="21" target="34">
+  <data key="weight">5.163978203199804E-4</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="23" target="31">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="23" target="45">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="23" target="48">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="24" target="39">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="25" target="35">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="25" target="38">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="26" target="28">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="26" target="29">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="26" target="30">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="26" target="41">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="26" target="46">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="27" target="32">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="27" target="33">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="27" target="36">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="27" target="44">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="28" target="29">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="28" target="30">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="28" target="41">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="28" target="46">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="29" target="30">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="29" target="34">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="29" target="46">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="30" target="33">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="30" target="39">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="30" target="46">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="31" target="45">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="31" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="32" target="36">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="32" target="37">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="32" target="40">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="33" target="39">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="35" target="38">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="36" target="44">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="37" target="40">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="40" target="47">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="41" target="46">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="45" target="48">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2024</data>
+</edge>
+</graph>
+</graphml>
