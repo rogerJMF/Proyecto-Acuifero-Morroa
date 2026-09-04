@@ -69,7 +69,7 @@ Proyecto-Acuifero-Morroa/
 │   └── Pozos/
 │       └── Final Serie_Indices_Sincronizado...
 │
-├── anexos/                                  # Anexos técnicos entregados por el docente
+├── anexos/                                  # Anexos técnicos 
 │   ├── Anexo 2/
 │   │   ├── cambio_nivel Completo 2010-2025 Pozos.png
 │   │   ├── Imputación Tabla-Comparación pozos.xlsx
